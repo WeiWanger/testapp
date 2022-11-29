@@ -19,7 +19,9 @@ import ReactDOM from 'react-dom'
 //import App from './01-base/14.betterScroll'
 //import App from './01-base/16.props'
 //import App from './01-base/17.ProposOfFunctionalComponent'
-import App from './01-base/18.StateVsPropos'
+//import App from './01-base/18.StateVsPropos'
+//import App from './01-base/19.Uncontrolled'
+import App from './01-base/20.Controlled'
 // ReactDOM.render(
 // <div>Hello World, Wei</div>, 
 // document.getElementById("root"))
