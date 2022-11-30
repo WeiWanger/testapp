@@ -1,0 +1,8 @@
+.filmdetail{
+ position: fixed;
+ right:0;
+ top:100px;
+ background:yellow;
+ width:200px;
+ height:200px;
+}

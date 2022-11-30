@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Avator",
+      "director": "James Cameron"
+    },
+    {
+      "id": 2,
+      "title": "Black Panther: Wakanda Forever",
+      "director": "Ryan Coogler"
+    },
+    {
+      "title": "Black Adam",
+      "director": "Jaume Collet-Serra",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "good comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "bad comment",
+      "postId": 2
+    }
+  ]
+}

@@ -21,7 +21,19 @@ import ReactDOM from 'react-dom'
 //import App from './01-base/17.ProposOfFunctionalComponent'
 //import App from './01-base/18.StateVsPropos'
 //import App from './01-base/19.Uncontrolled'
-import App from './01-base/20.Controlled'
+// import App from './01-base/20.Controlled'
+//import App from './01-base/21.ControlledCinema'
+//import App from './01-base/22.ControlledToDoList'
+//import App from './02-Advance/01-ChildToParent'
+//import App from './02-Advance/02.UncontrolledTicektSaleFunction'
+//import App from './02-Advance/03.ControlledTicketSaleComponent'
+//import App from './02-Advance/04.FormField'
+//import App from './02-Advance/05.Ref-FieldCOmponent.js'
+// import App from './02-Advance/06.LiftingStateUp'
+import App from './02-Advance/07.Publisher&subscriber'
+
+
+
 // ReactDOM.render(
 // <div>Hello World, Wei</div>, 
 // document.getElementById("root"))
