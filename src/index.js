@@ -30,9 +30,11 @@ import ReactDOM from 'react-dom'
 //import App from './02-Advance/04.FormField'
 //import App from './02-Advance/05.Ref-FieldCOmponent.js'
 // import App from './02-Advance/06.LiftingStateUp'
-import App from './02-Advance/07.Publisher&subscriber'
-
-
+//import App from './02-Advance/07.Publisher&subscriber'
+//import App from './02-Advance/11.Composition-ChildToParent'
+//import App from './02-Advance/12.LifeCycle-initial'
+//import App from './02-Advance/13.LifeCyle-initializationCase'
+import App from './02-Advance/14.LifeCycle-Update01'
 
 // ReactDOM.render(
 // <div>Hello World, Wei</div>, 
